@@ -15,7 +15,7 @@ An open-source, self-hosted note-taking solution designed for seamless deploymen
   <a href="https://discord.gg/tfPJa4UmAv"><img alt="Discord" src="https://img.shields.io/badge/discord-chat-5865f2?logo=discord&logoColor=f5f5f5" /></a>
 </p>
 
-![demo](https://memos.innerinfo.cloud/demo.png)
+![demo]([https://memos.innerinfo.cloud/demo.png](http://gaon.innerinfo.cloud/theme/thema/assets/images/logo.png)
 
 ## Features
 
